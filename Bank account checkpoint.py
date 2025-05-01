@@ -1,4 +1,4 @@
-"""
+
 Create a class called "Account" that has the following attributes:
 
 account_number (string)
@@ -21,7 +21,8 @@ Define the check_balance() method. It should return the current account balance.
 Create an instance of the Account class, and assign it to a variable called "my_account".
 Use the methods of the class to deposit and withdraw money from the account, and check the account balance.
 Test the program by creating multiple instances of the class and performing different transactions on them.
-"""
+
+Answer:
 
 class account:
 
